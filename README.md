@@ -27,7 +27,7 @@ Emergency room visits
 
 Diabetes medication usage
 
-Older age groups (60–89)
+Older age groups (80–89)
 
 Potential Impact:
 Reducing avoidable readmissions by 5% could save $2.6B annually in U.S. healthcare costs.
